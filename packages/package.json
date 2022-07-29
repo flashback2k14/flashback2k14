@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "description": "portfolio website",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "flashback2k14",
+  "scripts": {
+    "start:d": "npx http-server"
+  }
+}
