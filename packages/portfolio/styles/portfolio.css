@@ -45,7 +45,7 @@ main section ul.profile-communication {
   justify-content: flex-start;
 
   margin: 0 0 0 -20px;
-  padding: 1em;
+  padding: 0.6em 1em 0 1em;
 
   list-style-type: none;
   list-style-position: inside;
@@ -105,6 +105,13 @@ svg {
 svg:hover {
   color: #a2ffcd;
   transform: scale(1.25, 1.25);
+}
+
+a {
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+  opacity: 0.8;
 }
 
 .shadow {
@@ -181,6 +188,10 @@ svg:hover {
 
   p {
     font-size: 16px;
+    text-align: center;
+  }
+
+  a {
     text-align: center;
   }
 }

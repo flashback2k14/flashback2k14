@@ -5,6 +5,6 @@
   "license": "MIT",
   "author": "flashback2k14",
   "scripts": {
-    "start:d": "npx http-server"
+    "start:d": "npx simplehttpserver ./portfolio"
   }
 }
