@@ -10,4 +10,4 @@ I am married, father of 👧👦 and live in 🇩🇪.
 - <a rel="me" href="https://mastodon.social/@flbk_dev">Mastodon</a>
 
 
-[![@yeahdev's Holopin board](https://holopin.io/api/user/board?user=yeahdev)](https://holopin.io/@yeahdev)
+[![An image of @yeahdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yeahdev)](https://holopin.io/@yeahdev)
